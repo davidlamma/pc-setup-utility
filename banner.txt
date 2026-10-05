@@ -1,0 +1,16 @@
+
+  +--------------------------------------------------------------------+
+  |                                                                    |
+  |   U N I N S T A L L E R   &   S E T U P   U T I L I T Y   v2.0     |
+  |                                                                    |
+  |   Strip the bloat. Install the basics. Hand it over.               |
+  |                                                                    |
+  |   1  Repair winget      4  Install apps                            |
+  |   2  Inventory          5  Run installers                          |
+  |   3  Remove bloatware                                              |
+  |                                                                    |
+  |   Answer Y or N at each step.  N skips to the next one.            |
+  |                                                                    |
+  |                           GOOD LUCK :)                             |
+  |                                                    by David Lamma  |
+  +--------------------------------------------------------------------+

@@ -1,0 +1,121 @@
+Add-AppxPackage -RegisterByFamilyName -MainPackage Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+
+winget settings --enable BypassCertificatePinningForMicrosoftStore
+
+winget uninstall --id {6468C4A5-E47E-405F-B675-A70A70983EA6}
+winget uninstall --id AD2F1837.HPAudioCenter_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPInc.EnergyStar_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPPCHardwareDiagnosticsWindows_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPPrinterControl_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPPrivacySettings_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPQuickDrop_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPSupportAssistant_v10z8vjag6ke6
+winget uninstall --id AD2F1837.HPSystemEventUtility_v10z8vjag6ke6
+winget uninstall --id AD2F1837.myHP_v10z8vjag6ke6
+winget uninstall --id C27EB4BA.DropboxOEM_xbfy0k16fey96
+winget uninstall --id Clipchamp.Clipchamp_yxz26nhyzhsrt
+winget uninstall --id HP_Documentation
+winget uninstall --id MSC
+winget uninstall --id Microsoft.549981C3F5F10_8wekyb3d8bbwe
+winget uninstall --id Microsoft.BingNews_8wekyb3d8bbwe
+winget uninstall --id Microsoft.GamingApp_8wekyb3d8bbwe
+winget uninstall --id Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe
+winget uninstall --id Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe
+winget uninstall --id Microsoft.MixedReality.Portal_8wekyb3d8bbwe
+winget uninstall --id Microsoft.Todos_8wekyb3d8bbwe
+winget uninstall --id Microsoft.Whiteboard_8wekyb3d8bbwe
+winget uninstall --id Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe
+winget uninstall --id Microsoft.WindowsMaps_8wekyb3d8bbwe
+winget uninstall --id Microsoft.Xbox.TCUI_8wekyb3d8bbwe
+winget uninstall --id Microsoft.XboxGameOverlay_8wekyb3d8bbwe
+winget uninstall --id Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
+winget uninstall --id Microsoft.XboxIdentityProvider_8wekyb3d8bbwe
+winget uninstall --id Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe
+winget uninstall --id Microsoft.YourPhone_8wekyb3d8bbwe
+winget uninstall --id Microsoft.ZuneVideo_8wekyb3d8bbwe
+winget uninstall --id MicrosoftTeams_8wekyb3d8bbwe
+winget uninstall --id O365HomePremRetail - en-us
+winget uninstall --id OneDriveSetup.exe
+winget uninstall --id SpotifyAB.SpotifyMusic_zpdnekdrzrea0
+winget uninstall --id microsoft.windowscommunicationsapps_8wekyb3d8bbwe
+winget uninstall --id {0ebb04c1-1fe8-4092-98b8-60acd20c184b}
+winget uninstall --id {35ED3F83-4BDC-4c44-8EC6-6A8301C7413A}
+
+Microsoft 365 - ar-sa                          O365HomePremRetail - ar-sa                            16.0.17425.20176
+Microsoft 365 - bg-bg                          O365HomePremRetail - bg-bg                            16.0.17425.20176
+Microsoft 365 - cs-cz                          O365HomePremRetail - cs-cz                            16.0.17425.20176
+Microsoft 365 - da-dk                          O365HomePremRetail - da-dk                            16.0.17425.20176
+Microsoft 365 - de-de                          O365HomePremRetail - de-de                            16.0.17425.20176
+Microsoft 365 - el-gr                          O365HomePremRetail - el-gr                            16.0.17425.20176
+Microsoft 365 - en-gb                          O365HomePremRetail - en-gb                            16.0.17425.20176
+Microsoft 365 - es-es                          O365HomePremRetail - es-es                            16.0.17425.20176
+Microsoft 365 - es-mx                          O365HomePremRetail - es-mx                            16.0.17425.20176
+Microsoft 365 - et-ee                          O365HomePremRetail - et-ee                            16.0.17425.20176
+Microsoft 365 - fi-fi                          O365HomePremRetail - fi-fi                            16.0.17425.20176
+Microsoft 365 - fr-ca                          O365HomePremRetail - fr-ca                            16.0.17425.20176
+Microsoft 365 - fr-fr                          O365HomePremRetail - fr-fr                            16.0.17425.20176
+Microsoft 365 - he-il                          O365HomePremRetail - he-il                            16.0.17425.20176
+Microsoft 365 - hr-hr                          O365HomePremRetail - hr-hr                            16.0.17425.20176
+Microsoft 365 - hu-hu                          O365HomePremRetail - hu-hu                            16.0.17425.20176
+Microsoft 365 - it-it                          O365HomePremRetail - it-it                            16.0.17425.20176
+Microsoft 365 - ja-jp                          O365HomePremRetail - ja-jp                            16.0.17425.20176
+Microsoft 365 - ko-kr                          O365HomePremRetail - ko-kr                            16.0.17425.20176
+„Microsoft 365“ - lt-lt                        O365HomePremRetail - lt-lt                            16.0.17425.20176
+Microsoft 365 - lv-lv                          O365HomePremRetail - lv-lv                            16.0.17425.20176
+Microsoft 365 - nb-no                          O365HomePremRetail - nb-no                            16.0.17425.20176
+Microsoft 365 - nl-nl                          O365HomePremRetail - nl-nl                            16.0.17425.20176
+Microsoft 365 - pl-pl                          O365HomePremRetail - pl-pl                            16.0.17425.20176
+Microsoft 365 - pt-br                          O365HomePremRetail - pt-br                            16.0.17425.20176
+Microsoft 365 - pt-pt                          O365HomePremRetail - pt-pt                            16.0.17425.20176
+Microsoft 365 - ro-ro                          O365HomePremRetail - ro-ro                            16.0.17425.20176
+Microsoft 365 - ru-ru                          O365HomePremRetail - ru-ru                            16.0.17425.20176
+Microsoft 365 - sk-sk                          O365HomePremRetail - sk-sk                            16.0.17425.20176
+Microsoft 365 - sl-si                          O365HomePremRetail - sl-si                            16.0.17425.20176
+Microsoft 365 - sr-latn-rs                     O365HomePremRetail - sr-latn-rs                       16.0.17425.20176
+Microsoft 365 - sv-se                          O365HomePremRetail - sv-se                            16.0.17425.20176
+Microsoft 365 - th-th                          O365HomePremRetail - th-th                            16.0.17425.20176
+Microsoft 365 - tr-tr                          O365HomePremRetail - tr-tr                            16.0.17425.20176
+Microsoft 365 - uk-ua                          O365HomePremRetail - uk-ua                            16.0.17425.20176
+Microsoft 365 - zh-cn                          O365HomePremRetail - zh-cn                            16.0.17425.20176
+Microsoft 365 - zh-tw                          O365HomePremRetail - zh-tw                            16.0.17425.20176
+Microsoft OneNote - ar-sa                      OneNoteFreeRetail - ar-sa                             16.0.17425.20176
+Microsoft OneNote - bg-bg                      OneNoteFreeRetail - bg-bg                             16.0.17425.20176
+Microsoft OneNote - cs-cz                      OneNoteFreeRetail - cs-cz                             16.0.17425.20176
+Microsoft OneNote - da-dk                      OneNoteFreeRetail - da-dk                             16.0.17425.20176
+Microsoft OneNote - de-de                      OneNoteFreeRetail - de-de                             16.0.17425.20176
+Microsoft OneNote - el-gr                      OneNoteFreeRetail - el-gr                             16.0.17425.20176
+Microsoft OneNote - en-gb                      OneNoteFreeRetail - en-gb                             16.0.17425.20176
+Microsoft OneNote - en-us                      OneNoteFreeRetail - en-us                             16.0.17425.20176
+Microsoft OneNote - es-es                      OneNoteFreeRetail - es-es                             16.0.17425.20176
+Microsoft OneNote - es-mx                      OneNoteFreeRetail - es-mx                             16.0.17425.20176
+Microsoft OneNote - et-ee                      OneNoteFreeRetail - et-ee                             16.0.17425.20176
+Microsoft OneNote - fi-fi                      OneNoteFreeRetail - fi-fi                             16.0.17425.20176
+Microsoft OneNote - fr-ca                      OneNoteFreeRetail - fr-ca                             16.0.17425.20176
+Microsoft OneNote - fr-fr                      OneNoteFreeRetail - fr-fr                             16.0.17425.20176
+Microsoft OneNote - he-il                      OneNoteFreeRetail - he-il                             16.0.17425.20176
+Microsoft OneNote - hr-hr                      OneNoteFreeRetail - hr-hr                             16.0.17425.20176
+Microsoft OneNote - hu-hu                      OneNoteFreeRetail - hu-hu                             16.0.17425.20176
+Microsoft OneNote - it-it                      OneNoteFreeRetail - it-it                             16.0.17425.20176
+Microsoft OneNote - ja-jp                      OneNoteFreeRetail - ja-jp                             16.0.17425.20176
+Microsoft OneNote - ko-kr                      OneNoteFreeRetail - ko-kr                             16.0.17425.20176
+„Microsoft OneNote“ - lt-lt                    OneNoteFreeRetail - lt-lt                             16.0.17425.20176
+Microsoft OneNote - lv-lv                      OneNoteFreeRetail - lv-lv                             16.0.17425.20176
+Microsoft OneNote - nb-no                      OneNoteFreeRetail - nb-no                             16.0.17425.20176
+Microsoft OneNote - nl-nl                      OneNoteFreeRetail - nl-nl                             16.0.17425.20176
+Microsoft OneNote - pl-pl                      OneNoteFreeRetail - pl-pl                             16.0.17425.20176
+Microsoft OneNote - pt-br                      OneNoteFreeRetail - pt-br                             16.0.17425.20176
+Microsoft OneNote - pt-pt                      OneNoteFreeRetail - pt-pt                             16.0.17425.20176
+Microsoft OneNote - ro-ro                      OneNoteFreeRetail - ro-ro                             16.0.17425.20176
+Microsoft OneNote - ru-ru                      OneNoteFreeRetail - ru-ru                             16.0.17425.20176
+Microsoft OneNote - sk-sk                      OneNoteFreeRetail - sk-sk                             16.0.17425.20176
+Microsoft OneNote - sl-si                      OneNoteFreeRetail - sl-si                             16.0.17425.20176
+Microsoft OneNote - sr-latn-rs                 OneNoteFreeRetail - sr-latn-rs                        16.0.17425.20176
+Microsoft OneNote - sv-se                      OneNoteFreeRetail - sv-se                             16.0.17425.20176
+Microsoft OneNote - th-th                      OneNoteFreeRetail - th-th                             16.0.17425.20176
+Microsoft OneNote - tr-tr                      OneNoteFreeRetail - tr-tr                             16.0.17425.20176
+Microsoft OneNote - uk-ua                      OneNoteFreeRetail - uk-ua                             16.0.17425.20176
+Microsoft OneNote - zh-cn                      OneNoteFreeRetail - zh-cn                             16.0.17425.20176
+Microsoft OneNote - zh-tw                      OneNoteFreeRetail - zh-tw
+
+
+winget uninstall --id

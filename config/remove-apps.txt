@@ -1,0 +1,148 @@
+# ---------------------------------------------------------------------------
+#  remove-apps.txt  -  the bloatware list
+# ---------------------------------------------------------------------------
+#  One app per line. The script tries each one; anything not installed on
+#  this PC is skipped, so it's fine to keep every vendor in one list.
+#
+#    SomeVendor.SomeApp_abc123      -> matched by winget ID (exact)
+#    name: Some App Display Name    -> matched by display name (exact)
+#    # anything after a hash        -> ignored (use it to switch lines off)
+#    [Section]                      -> just a heading for the on-screen output
+#
+#  Find IDs on a new machine with the "Inventory" step (or `winget list`).
+#  IDs in either winget format work - e.g. both of these mean the same app:
+#    Clipchamp.Clipchamp_yxz26nhyzhsrt
+#    MSIX\Clipchamp.Clipchamp_4.6.10420.0_x64__yxz26nhyzhsrt
+#  Lines marked OPTIONAL are switched off by default - remove the # to use them.
+# ---------------------------------------------------------------------------
+
+[Dell]
+DellInc.DellCustomerConnect_htrsf667h5k
+DellInc.DellDigitalDelivery_htrsf667h5k
+DellInc.MyDell_htrsf667h5kn2
+
+[HP]
+AD2F1837.HPEasyClean_v10z8vjag6ke6
+AD2F1837.HPDesktopSupportUtilities_v10z8vjag6ke6
+AD2F1837.HPJumpStart_v10z8vjag6ke6
+AD2F1837.HPAudioCenter_v10z8vjag6ke6
+AD2F1837.myHP_v10z8vjag6ke6
+AD2F1837.HPSystemInformation_v10z8vjag6ke6
+AD2F1837.HPSupportAssistant_v10z8vjag6ke6
+AD2F1837.HPPowerManager_v10z8vjag6ke6
+AD2F1837.HPPCHardwareDiagnosticsWindows_v10z8vjag6ke6
+AD2F1837.HPInc.EnergyStar_v10z8vjag6ke6
+AD2F1837.HPPrinterControl_v10z8vjag6ke6
+AD2F1837.HPPrivacySettings_v10z8vjag6ke6
+AD2F1837.HPQuickDrop_v10z8vjag6ke6
+AD2F1837.HPSystemEventUtility_v10z8vjag6ke6
+HP_Documentation
+{2439AE5C-1F6E-4AD4-A403-D1BD8C6945B4}
+{BEFF0728-1E80-441E-9E23-2142634046C8}
+{DE19530B-11E5-4F64-BAFF-751F9182E593}
+{BF261888-27EC-401C-A0B4-D7362794D8B8}
+{C2F1EB22-02EB-4B5A-82F5-62C83BEF6626}
+{84937F28-9CB4-49E7-A2CF-E32D97E6DAE6}
+{6468C4A5-E47E-405F-B675-A70A70983EA6}
+{5CD25FCD-D218-46D0-B405-E5A488969BDF}
+# HP Wolf Security - remove the console first, then the main package
+{91E2255E-7422-404F-83F5-B18641499B68}
+name: HP Wolf Security - Console
+{2A23BD00-9533-11EE-9C02-3863BB3CB5A8}
+name: HP Wolf Security
+# Product codes collected in the field from HP units (exact app names not recorded)
+{7D786AA9-518E-4AC7-97FD-D889A4102B0D}
+{C46292AA-F1A9-4736-9E69-65FCC46D22A4}
+{B0F8088F-E245-11EE-BA11-10604B96B11E}
+{53BF0A1E-467B-4C21-813B-CE02FD3542F9}
+{19F557DE-662A-4FEA-B635-1CACD56CC483}
+{4209B666-A120-4D0B-AABB-9D3B06DD7304}
+{4E8C85BA-841C-43B5-87B9-0BB53A87B624}
+
+[Lenovo]
+VantageSRV_is1
+E046963F.LenovoCompanion_k1h2ywk1493x8
+E046963F.LenovoSettingsforEnterprise_k1h2ywk1493x8
+E0469640.SmartAppearance_5grkq8ppsgwt4
+E0469640.LenovoSmartCommunication_5grkq8ppsgwt4
+E0469640.LenovoUtility_5grkq8ppsgwt4
+{25FB0D7A-ED1B-4663-809E-A54E8A4274B0}_is1
+Lenovo Now
+CyberLinkCorp.th.Power2GoforLenovo_m916jedk64snt
+CyberLinkCorp.th.PowerDVDforLenovo_m916jedk64snt
+ElevocTechnologyCo.Ltd.SmartMicrophoneSetting
+ElevocTechnologyCo.Ltd.SmartMicrophoneSettings_tt
+
+[Microsoft]
+Microsoft.549981C3F5F10_8wekyb3d8bbwe
+Microsoft.BingNews_8wekyb3d8bbwe
+Microsoft.BingWeather_8wekyb3d8bbwe
+Microsoft.GamingApp_8wekyb3d8bbwe
+Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe
+Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe
+Microsoft.MixedReality.Portal_8wekyb3d8bbwe
+Microsoft.MinecraftEducationEdition_8wekyb3d8bbwe
+Microsoft.OneConnect_8wekyb3d8bbwe
+Microsoft.Advertising.Xaml_8wekyb3d8bbwe
+Microsoft.Todos_8wekyb3d8bbwe
+Microsoft.Whiteboard_8wekyb3d8bbwe
+Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe
+Microsoft.WindowsMaps_8wekyb3d8bbwe
+Microsoft.Xbox.TCUI_8wekyb3d8bbwe
+Microsoft.XboxGameOverlay_8wekyb3d8bbwe
+Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
+Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe
+Microsoft.XboxIdentityProvider_8wekyb3d8bbwe
+Microsoft.YourPhone_8wekyb3d8bbwe
+Microsoft.ZuneVideo_8wekyb3d8bbwe
+Microsoft.ZuneMusic_8wekyb3d8bbwe
+Microsoft.MicrosoftJournal_8wekyb3d8bbwe
+Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe
+microsoft.windowscommunicationsapps_8wekyb3d8bbwe
+MicrosoftWindows.Client.CoPilot_cw5n1h2txyewy
+MicrosoftTeams_8wekyb3d8bbwe
+MicrosoftCorporationII.MicrosoftFamily_8wekyb3d8bbwe
+Microsoft.SkypeApp_kzf8qxf38zg5c
+Clipchamp.Clipchamp_yxz26nhyzhsrt
+# Teams Machine-Wide Installer
+{731F6BAA-A986-45A4-8936-7C3AAAAA760B}
+# Pre-loaded consumer Office / OneNote trials (not volume/business installs)
+O365HomePremRetail - en-us
+O365ProPlusRetail - es-mx
+O365ProPlusRetail - fr-ca
+OneNoteFreeRetail - en-us
+OneNoteFreeRetail - es-mx
+OneNoteFreeRetail - fr-ca
+# OPTIONAL - these are real tools some people use. Uncomment to remove.
+# OneDriveSetup.exe
+# Microsoft.OutlookForWindows_8wekyb3d8bbwe
+# Microsoft.ScreenSketch_8wekyb3d8bbwe
+# MicrosoftCorporationII.QuickAssist_8wekyb3d8bbwe
+# OPTIONAL - Microsoft Update Health Tools is part of Windows Update servicing.
+# {C6FD611E-7EFE-488C-A0E0-974C09EF6473}
+#
+# Deliberately NOT included: Microsoft.SecHealthUI_8wekyb3d8bbwe (Windows Security app).
+
+[Trialware & Other]
+NGC
+MSC
+McAfee.WPS
+McAfeeWPSSparsePackage_1ez856j3kr9ae
+{35ED3F83-4BDC-4c44-8EC6-6A8301C7413A}
+NortonSecurity_cjtsyd8xszapp
+king.com.CandyCrushSodaSaga_kgqvnymyfvs32
+A278AB0D.MarchofEmpires_h6adky7gbf63m
+SpotifyAB.SpotifyMusic_zpdnekdrzrea0
+C27EB4BA.DropboxOEM_xbfy0k16fey96
+DolbyLaboratories.DolbyAccess_rz1tebttyb220
+# Product codes collected in the field (exact app names not recorded)
+{ABAF0FD5-B68C-4932-B72E-7B7D40B6DA40}_is1
+{0ebb04c1-1fe8-4092-98b8-60acd20c184b}
+{13E9CBF6-6E32-40D0-874A-018DFEFB0851}_is1
+{6E176115-6EB6-4D5D-948F-A6347E3DAB56}
+{0C0B6015-DAED-49EF-B16A-D43000F279FD}
+{18A8E78B-9EF2-496E-B310-BCD8E4C1DAB3}
+{D5C69738-B486-402E-85AC-2456D98A64E4}
+{FE9F8093-C2C9-4FAC-A69B-981DD7E73434}
+{B9A7A138-BFD5-4C73-A269-F78CCA28150E}
+{115DF11E-4B4C-4EA9-9A79-00DB0C7EF02D}

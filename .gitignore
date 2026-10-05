@@ -1,0 +1,5 @@
+# Installers are large and often licensed - keep them on the USB, not in git
+Installs/*
+!Installs/PUT-INSTALLERS-HERE.txt
+logs/
+.DS_Store

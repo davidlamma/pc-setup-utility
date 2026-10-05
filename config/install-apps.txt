@@ -1,0 +1,21 @@
+# ---------------------------------------------------------------------------
+#  install-apps.txt  -  apps installed from the internet with winget
+# ---------------------------------------------------------------------------
+#  One winget ID per line. Find IDs with:  winget search <app name>
+#  Or browse https://winget.run / https://winstall.app
+#  Lines starting with # are ignored.
+#
+#  Have an installer winget can't get (licensed software, a vendor agent,
+#  a Ninite bundle)? Drop the .exe / .msi in the Installs folder instead.
+# ---------------------------------------------------------------------------
+
+Google.Chrome
+Mozilla.Firefox
+7zip.7zip
+Adobe.Acrobat.Reader.64-bit
+
+# Some other common picks - uncomment what you want
+# VideoLAN.VLC
+# Notepad++.Notepad++
+# Zoom.Zoom
+# Microsoft.Teams

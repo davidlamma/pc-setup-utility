@@ -1,0 +1,7 @@
+Drop any .exe or .msi installers in this folder (Ninite bundle, Office, a
+vendor agent, a printer driver...).
+
+The "Run installers" step copies them to C:\SetupKit on the PC and runs them
+one at a time, waiting for each to finish before starting the next.
+
+Installers in this folder are not uploaded to GitHub (see .gitignore).

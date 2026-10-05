@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+                                                                                                    
+                                                                                                   
+ *=%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%=* 
+ *=%%%*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       %@=* 
+ *=%%%*| UNINSTALLER AND SETUP UTILITY v1.4|*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  \/   %%=* 
+ *=%%%*|___________________________________|*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  /\   %%=*
+ *=%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%       %%=* 
+ *=%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#######%%=* 
+ *                                                                                                *
+ *  What is this: Uses winget to uninstall bloatware and running installers at the end.           *
+ *                                                                                                * 
+ *  -----------------------------------------------------------------------------------------     * 
+ *                                                                                                * 
+ *   How to use: The program will take you step-by-step. You will need to answer Y or N.          *
+ *   Answering N to any of the choices will take you to the next step.                            * 
+ *                                                                                                * 
+ *   Setup: Uninstalls current winget version installed and reinstalls an updated version.        * 
+ *   Note: Pre-loaded versions of wiget tend to have issues with listing and uninstalling.        * 
+ *                                                                                                * 
+ *   List: Offers a list of installed programs and their IDs. Used for updating Uninstall list.   * 
+ *   Note: Used for manually updating uninstall list in batch file.                               * 
+ *                                                                                                * 
+ *   Uninstall: Winget searches program names and uninstalls matching app IDs in the batch file.  * 
+ *   Note: Watch for any uninstaller pop-ups that may appear. May have to run as admin.           * 
+ *                                                                                                * 
+ *   Install: Installs essential applications like Chrome, Firefox, 7-zip, and Adobe Reader.      * 
+ *   Note: Drops files in C: Drive in a folder called "CNSI". Skip this step to close the script. * 
+ *                                                                                                * 
+ *                                                                                                * 
+ *                                =::::::::::::::::::::::::::::=                                  *
+ *                                =                            =                                  *
+ *                                =         GOOD LUCK :)       =                                  * 
+ *                                =                            =                                  * 
+ *                                =::::::::::::::::::::::::::::=                                  * 
+ *                                                                                                * 
+ *************************************************************************************************# 
+2024
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+ _                               
+| \ _     o  _|   |   _ __ __  _ 
+|_/(_|\_/ | (_|   |__(_|||||||(_|
+
+
+----------------------------------------------------------------------------------------------
+
+
+%+,.,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,:?SSSSSSSSSSSSSSSSSSSSSSSSSSSS
+SS%+,........,+:;,,,.,,,,,,,.,,.,,,.,,.;:.,,..................:*SSSSSSSSSSSSSSSSSSSSSSSSSS
+SSSS%+,......... __  __   __   __   __   __       ___  __.......:*SSSSSSSSSSSSSSSSSSSSSSSS
+SSSSSS%*:......./   /  \ |__) |__) /  \ |__)  /\   |  |_ .........,+%SSSSSSSSSSSSSSSSSSSSS
+SSSSSSSSS*:.....\__ \__/ | \  |    \__/ | \  /--\  |  |__ ..........,+%SSSSSSSSSSSSSSSSSSS
+SSSSSSSSSSS?:...............,..................,,.....................,;%SSSSSSSSSSSSSSSSS
+SSSSSSSSSSSSS?;...............__ ___       __   __......................,;?SSSSSSSSSSSSSSS
+SSSSSSSSSSSSSSS?;,......|\ | |_   |  |  | /  \ |__) |_/ ..................;?SSSSSSSSSSSSSS
+SSSSSSSSSSSSSSSSS%+,....| \| |__  |  |/\| \__/ | \  | \ .....................:*SSSSSSSSSSS
+SSSSSSSSSSSSSSSSSSS%+,.........................................................:*SSSSSSSSS
+SSSSSSSSSSSSSSSSSSSSS%*:.............__  __           ___    __        __ ....,:,,+%SSSSSS
+SSSSSSSSSSSSSSSSSSSSSSSS*:..........(_  /  \ |   /  \  |  | /  \ |\ | (_  ;:,......,+%SSSS
+SSSSSSSSSSSSSSSSSSSSSSSSSS?.........__) \__/ |__ \__/  |  | \__/ | \| __) .::,.......,;?SS
+SSSSSSSSSSSSSSSSSSSSSSSSSSSS?:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,+%
+
+
+
