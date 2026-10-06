@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="549" viewBox="0 0 900 549" role="img" aria-label="Uninstaller and Setup Utility dry run on a Windows 11 PC: 24 bloatware apps found, 83 not installed">
+<rect width="900" height="549" rx="10" fill="#0c0c0c"/>
+<rect width="900" height="32" rx="10" fill="#1f1f1f"/><rect y="22" width="900" height="10" fill="#1f1f1f"/>
+<text x="16" y="21" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#cccccc">Windows PowerShell — Setup.ps1 -DryRun</text>
+<g font-family="Cascadia Mono,Consolas,Menlo,monospace" font-size="14">
+<text x="14" y="56" fill="#5fd7ff" xml:space="preserve">  +------------------------------------------------------------------+</text>
+<text x="14" y="77" fill="#5fd7ff" xml:space="preserve">  |   U N I N S T A L L E R   &amp;   S E T U P   U T I L I T Y   v2.0   |</text>
+<text x="14" y="98" fill="#5fd7ff" xml:space="preserve">  +------------------------------------------------------------------+</text>
+<text x="14" y="119" fill="#ff87ff" xml:space="preserve">  DRY RUN - nothing on this PC will be changed.</text>
+<rect x="10" y="125" width="880" height="20" fill="#13293a"/>
+<text x="14" y="140" fill="#5fd7ff" xml:space="preserve">  Step 3 of 5 - Remove bloatware</text>
+<text x="14" y="161" fill="#d0d0d0" xml:space="preserve">  107 entries in config\remove-apps.txt. Apps that aren't installed are skipped.</text>
+<text x="14" y="182" fill="#ff87ff" xml:space="preserve">  Remove bloatware now? [auto: Y]</text>
+<text x="14" y="203" fill="#5fd7ff" xml:space="preserve">  Dell</text>
+<text x="14" y="224" fill="#6c6c6c" xml:space="preserve">  [--     ] DellInc.DellCustomerConnect_htrsf667h5k</text>
+<text x="14" y="245" fill="#5fd7ff" xml:space="preserve">  Microsoft</text>
+<text x="14" y="266" fill="#ff87ff" xml:space="preserve">  [would  ] remove Microsoft.BingNews_8wekyb3d8bbwe</text>
+<text x="14" y="287" fill="#ff87ff" xml:space="preserve">  [would  ] remove Microsoft.GamingApp_8wekyb3d8bbwe</text>
+<text x="14" y="308" fill="#ff87ff" xml:space="preserve">  [would  ] remove Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe</text>
+<text x="14" y="329" fill="#ff87ff" xml:space="preserve">  [would  ] remove Clipchamp.Clipchamp_yxz26nhyzhsrt</text>
+<text x="14" y="350" fill="#6c6c6c" xml:space="preserve">  [--     ] Microsoft.Todos_8wekyb3d8bbwe</text>
+<text x="14" y="371" fill="#5fd7ff" xml:space="preserve">  Trialware &amp; Other</text>
+<text x="14" y="392" fill="#ff87ff" xml:space="preserve">  [would  ] remove SpotifyAB.SpotifyMusic_zpdnekdrzrea0</text>
+<text x="14" y="413" fill="#6c6c6c" xml:space="preserve">  [--     ] McAfee.WPS</text>
+<rect x="10" y="419" width="880" height="20" fill="#13293a"/>
+<text x="14" y="434" fill="#5fd7ff" xml:space="preserve">  Summary</text>
+<text x="14" y="455" fill="#d0d0d0" xml:space="preserve">  Would remove   : 24</text>
+<text x="14" y="476" fill="#d0d0d0" xml:space="preserve">  Not installed  : 83</text>
+<text x="14" y="497" fill="#d0d0d0" xml:space="preserve">  Remove failed  : 0</text>
+<text x="14" y="518" fill="#ff87ff" xml:space="preserve">  You are done. Hope you have a great day!! :P</text>
+</g></svg>
